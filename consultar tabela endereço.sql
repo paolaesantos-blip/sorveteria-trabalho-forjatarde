@@ -1,0 +1,2 @@
+-- Active: 1773683699933@@127.0.0.1@3306
+SELECT * FROM endereço;
